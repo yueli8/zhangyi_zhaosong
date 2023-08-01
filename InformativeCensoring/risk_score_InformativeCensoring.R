@@ -1,3 +1,4 @@
+#Supplementary Online Content_table5_Sensitivity Analyses for Missing Data Using Risk-Set Multiple Imputation
 library(InformativeCensoring)
 set.seed(421234)
 setwd("~/zhangyi/InformativeCensoring")
